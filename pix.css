@@ -1,0 +1,64 @@
+.side-arrow{
+    margin-top:0px;
+    margin-bottom: 0px;
+    padding-top:20%;
+    padding-bottom: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 5%;
+    height: 20%;
+}
+
+.side-arrow>svg{
+    color:#787878;
+}
+.side-arrow>svg:hover{
+    color:#505050;
+}
+.side-arrow>svg:active{
+    color:#969696;
+}
+.mid-control{
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+    padding-top:5px;
+    padding-bottom: 20px;
+}
+.pic{
+    width: auto;
+}
+.main-title{
+    color: rgb(31, 31, 31);
+font-size: 20px;
+line-height: 24px;
+font-weight: bold;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.main-content{
+    font-size: 14px;
+line-height: calc(1em + 8px);
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.see{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.row{
+    margin: 0px;
+}
+.pid{
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+    padding-top:5px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+.pid>a{
+    color: black;
+}
+.pid>a:hover{
+    color:gray!important;
+    text-decoration: none;
+}
